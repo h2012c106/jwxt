@@ -1,0 +1,21 @@
+.login-container{
+    position:fixed;
+    top:50%;
+    left:0;
+    width:100%;
+}
+
+.btn-container{
+    position:relative;
+    width: 25%;
+    top:-120px;
+    margin:0 auto;
+}
+
+.login-btn{
+    text-transform: uppercase;
+}
+
+.modal-dialog{
+    width: 40%;
+}

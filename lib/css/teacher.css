@@ -1,0 +1,38 @@
+.sidebar{
+    margin-top: 61px;
+}
+
+.file-input{
+    position: absolute;
+    width: 80px;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    -ms-filter: 'alpha(opacity=0)';
+}
+
+.btn-container{
+    margin-bottom: 15px;
+}
+
+.modal-dialog{
+    width: 30%;
+}
+
+#gradeBar{
+    margin-bottom: 25px;
+}
+
+.option-row{
+    padding-bottom: 50px;
+}
+
+.ctrl-row{
+    padding-bottom: 20px;
+}
+
+.chosen-container{
+    width:60% !important;
+    margin-top: 5px;
+}
+
